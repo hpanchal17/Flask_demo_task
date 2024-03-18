@@ -1,0 +1,14 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+flask_restful
+flask_jwt_extended
+psycopg2-binary
+flask_mail
+passlib
+marshmallow
+datetime
+uuid
+twilio
